@@ -20,4 +20,3 @@ I love to learn and explore new algorithms and programming techniques.
 In my free time, I love to play cricket and other sports.
 
 
-I am a 3rd-year student enrolled in B-Tech Programme at NIT Trichy. I am working on data structures and algorithms to improve my logic-building skills. I love to learn and explore new algorithms and programming techniques. In my free time, I love to play cricket and other sports.
