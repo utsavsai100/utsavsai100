@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a 3rd-year student enrolled in B-Tech Programme at NIT Trichy. 
+I am a final-year student enrolled in the B-Tech Programme at NIT Trichy. 
 
 I am working on data structures and algorithms to improve my logic-building skills.
 
