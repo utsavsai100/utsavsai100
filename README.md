@@ -42,6 +42,6 @@ In my free time, I love to play cricket and other sports.
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img align="center"src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidbudhia&show_icons=true&locale=en&layout=compact" alt="sidbudhia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavsai100&show_icons=true&locale=en&layout=compact" alt="Utsav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidbudhia&show_icons=true&locale=en" alt="sidbudhia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsavsai100&show_icons=true&locale=en" alt="utsavsai100" /></p>
