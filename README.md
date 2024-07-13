@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavsai100" alt="utsavsai100" /></a> </p>
 
 
-
+I am currently learning PostgreSQL database,Python
 I am a final-year student enrolled in the B-Tech Programme at NIT Trichy. 
 
 I am working on data structures and algorithms to improve my logic-building skills.
